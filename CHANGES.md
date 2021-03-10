@@ -4,6 +4,7 @@
 
 - bandersnatch is now a >= 3.8 Python project
 - New size_project_metadata filter plugin, which can deny download of projects larger than defined threshold - `PR #806`
+- test lol `PR #4`
 
 ## Bug Fixes
 
